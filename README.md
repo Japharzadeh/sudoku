@@ -56,4 +56,20 @@ Customizable and modern UI design with gradient backgrounds, rounded borders, an
 
 Responsive layout adjusts cell sizes on window resize.
 
+Installation and Running:
+
+Ensure Python 3.10+ is installed.
+
+Install required packages using pip:
+
+pip install -r requirements.txt
+
+
+Run the application:
+
+python sudoku_master.py
+
+
+(Replace sudoku_master.py with the filename of the main script if different.)
+
 The application starts with main(), initializing the database, creating the GUI, and launching the Qt event loop.
